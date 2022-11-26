@@ -8,6 +8,7 @@ jadi seleb wkwkwk slebew :v
 ## How to it?
 ```python
 $ cd Insta-Foll
+$ python -m pip install -r requirements.txt
 $ python main.py
 ```
 > Get Token [click here](https://bit.ly/TokenInstaFoll)
